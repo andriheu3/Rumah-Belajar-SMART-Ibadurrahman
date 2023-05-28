@@ -1,0 +1,29 @@
+{
+    "Les Berhitung": [
+        {
+            "foto": "images/produk/Prisma.png",
+            "nama": "Les Berhitung Metode Prisma",
+            "waktu": "1 Jam (2x)/1 Minggu",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        }
+    ],
+    "Les Baca dan Tulis": [
+        {
+            "foto": "images/produk/membaca-apaitu-baca.jpg",
+            "nama": "Les Baca dan Tulis",
+            "waktu": "1 Jam (2x)/1 Minggu",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ],
+    "Les Mengaji": [
+        {
+            "foto": "images/produk/Mengaji.jpg",
+            "nama": "Les Mengaji",
+            "waktu": "1 Jam (2x)/1 Minggu",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
